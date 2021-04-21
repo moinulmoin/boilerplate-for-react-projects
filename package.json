@@ -1,6 +1,6 @@
 {
-  "name": "ice-cream",
-  "version": "0.1.0",
+  "name": "boilerplate-for-react-projects",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "*",
