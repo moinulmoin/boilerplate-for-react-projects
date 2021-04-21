@@ -17,7 +17,7 @@ I just made little change. So, every process will be same as Sumit Dada did in h
 if you face error then do the following steps:
 
 - just keep those files and remove the rest.
-[![Keep File](./keep-files.png)]
+[![Keep File](./Keep_files.png)]
 
 - then download `.eslintc` and `package.json` form this repo  [Ultimate Solution](https://github.com/moinulmoin/boilerplate-for-react-projects) [you can also download `.vscode` if you need]
 
