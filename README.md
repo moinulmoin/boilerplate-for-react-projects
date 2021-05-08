@@ -12,6 +12,11 @@ You can use my modified boilerplate which I just slightly modified to get rid of
 
 -   ✨Magic ✨
 
+## Requirements
+
+- VSCode &
+- Its two extensions : `EsLint` , `Prettier`
+
 ## Till now, I haven't go any bug then just do the following method:
 
 - Just keep a empty directory
