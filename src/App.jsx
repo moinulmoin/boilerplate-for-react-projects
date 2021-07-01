@@ -3,7 +3,6 @@ import './App.css';
 
 function App() {
     return (
-        // Remove All
         <div className="container">
             <h1>Congrats! It&#39;s working, Bro</h1>
             <img src="./working.gif" alt="working" />

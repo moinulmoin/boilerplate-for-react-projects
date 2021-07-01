@@ -6,26 +6,23 @@ so, you may watch the video. [Check Now](https://youtu.be/ii8GaRjRoNI)
 
 or
 
-You can use my modified boilerplate which I just slightly modified to get rid of errors.
-
-## What I did
-
--   ✨Magic ✨
+You can use my modified boilerplate
 
 ## Requirements
 
-- VSCode &
-- Its two extensions : `EsLint` , `Prettier`
+-   Visual Studio Code Editor &
+-   Its two extensions : `EsLint` , `Prettier`
 
-## Till now, I haven't go any bug then just do the following method:
+## Just follow all steps:
 
-- Just keep a empty directory
-- Download the whole repo
-- Copy and paste the files in your directory
-- Run the command:
-`npm install` if you use npm or `yarn` if you use yarn
-- Now check it by `npm start` or `yarn start`
-- I hope it is working now!
+-   Just keep a empty directory
+-   Clone/Download this repo
+-   Copy and paste the files in your directory
+-   I have use yarn in this repo. so you have to use yarn for this. so if you don't have yarn installed, install it by using this command: `npm i -g yarn`
+-   then use this command: `yarn update` to make your dependency packages version updated
+-   Now run command `yarn` or `yarn install` to install all dependency
+-   Now use this command: `yarn lint` to setup linting and formatting
+-   Now use this command: `yarn start` & you are ready to go
 
 ### If it's working and worthy, please give a star💫 on this repo
 
