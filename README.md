@@ -21,7 +21,6 @@ You can use my modified boilerplate
 -   I have use yarn in this repo. so you have to use yarn for this. so if you don't have yarn installed, install it by using this command: `npm i -g yarn`
 -   then use this command: `yarn update` to make your dependency packages version updated
 -   Now run command `yarn` or `yarn install` to install all dependency
--   Now use this command: `yarn lint` to setup linting and formatting
 -   Now use this command: `yarn start` & you are ready to go
 
 ### If it's working and worthy, please give a star💫 on this repo

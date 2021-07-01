@@ -10,8 +10,7 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
-		"update": "yarn global add npm-check-updates && ncu -u",
-		"lint": "yarn add -D prettier && yarn add -D babel-eslint && npx install-peerdeps --dev eslint-config-airbnb && yarn add -D eslint-config-prettier eslint-plugin-prettier"
+		"update": "yarn global add npm-check-updates && ncu -u"
 	},
 	"eslintConfig": {
 		"extends": [
